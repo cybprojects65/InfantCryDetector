@@ -1,0 +1,1 @@
+java -jar infantCryDetector.jar "./testfile_PCM_signed_16bit_16kHz_mono.wav"
